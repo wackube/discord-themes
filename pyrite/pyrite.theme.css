@@ -11,8 +11,8 @@
 /* Import Base */
 @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/base.css);
 
-/* Import User Modal Layout */
-@import url(https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.css);
+/* Import User Modal Layout
+@import url(https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.css); */
 
 /* Import BD Only Features */
 @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/better-discord.css);
@@ -144,4 +144,3 @@
   --hover-filter: rgba(255,255,255,0.2);
   --active-filter: rgba(255,255,255,0.4);
 }
-

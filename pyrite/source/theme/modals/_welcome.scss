@@ -1,8 +1,0 @@
-@use "backend" as *;
-#{c(modals welcome main)} {
-	background: var(--modal-background);
-}
-#{c(modals welcome optionContainer)},
-#{c(modals welcome optionContainer)}:hover {
-	background: $card;
-}
