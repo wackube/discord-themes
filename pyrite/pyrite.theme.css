@@ -33,11 +33,11 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
-  --background-image: url('https://leafyluigi.github.io/images/pexels-josh-sorenson-116359.png');
+  --background-image: url('https://raw.githubusercontent.com/wackube/discord-themes/master/pyrite/bg.jpg');
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
-  --home-icon: url('https://leafyluigi.github.io/images/pexels-chris-munnik-2604991.png');
+  --home-icon: url('https://raw.githubusercontent.com/wackube/discord-themes/master/pyrite/logo.png');
 
   /* Image attachment can be "fixed", "scroll" or "local" */
   /* scroll/local attaches the background to the modal completely while fixed keeps it in line with the background */
