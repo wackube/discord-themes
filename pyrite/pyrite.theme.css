@@ -25,7 +25,7 @@
 /* Optional: HorizontalServerList. Includes the base for the minitheme. */
 /* @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/horizontal-server-list.css); */
 
-/* Optional: Border Radius / Radical Status. Does not include Gibbu's base for Radical Status. Incompatible with it. */
+/* Optional: Border Radius / Radical Status. Does notx include Gibbu's base for Radical Status. Incompatible with it. */
 /* @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/borders.css) */
 
 /* Theme Base */
@@ -33,7 +33,7 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
-  --background-image: url('https://raw.githubusercontent.com/wackube/discord-themes/master/pyrite/bg.jpg');
+  --background-image: url('https://pbs.twimg.com/media/FyklSiOaYAAJruL?format=jpg&name=large');
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
